@@ -1,0 +1,14 @@
+name: ml_week4
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - statsmodels
+  - numpy
+  - scipy
+  - scikit-learn
+  - ipykernel
+  - matplotlib
+  - seaborn
+  - pydot
+  - graphviz
